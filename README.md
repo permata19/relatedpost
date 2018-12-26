@@ -1,0 +1,2 @@
+# relatedpost
+AMP Related Post
